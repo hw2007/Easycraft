@@ -8,7 +8,7 @@ config = {
 	# Example: "my-server": "/Users/johndoe/My Server/launch.jar". In this case I would use "my-server" to reference my server in the command line.
 	# Make sure to separate each entry with a comma, and use proper indentation!!
 	"bindings": {
-		"remove-this-binding": "/this/is/an/example/path.jar",
+		"remove-this-binding": "/this/is/an/example/path.jar"
 	},
 
 	# The path where you want server backups to be stored
